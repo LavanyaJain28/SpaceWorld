@@ -39,7 +39,8 @@ font-size: .8rem;
 
 }
 .heading{
-  font-size: 12rem;
+  font-size: 700%;
+  font-weight: bold;
   text-align: center;
   margin-top: 70px;
   margin-bottom: 10%;
